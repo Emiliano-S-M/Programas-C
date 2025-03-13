@@ -64,3 +64,5 @@ El usuario deberá poder seleccionar una de estas figuras y el programa pedirá 
 2. El usuario seleccionará una opción y el programa solicitará los valores necesarios para calcular el área de la figura seleccionada.
 3. El programa debe calcular y mostrar el área correspondiente.
 4. El usuario debe poder realizar múltiples cálculos sin necesidad de reiniciar el programa.
+
+{Código}(main.c)

@@ -1,0 +1,14 @@
+# Ignorar archivos ejecutables en C
+*.exe
+
+# Ignorar archivos de compilación temporales
+*.o
+*.obj
+*.dll
+*.out
+
+# Archivos de depuración
+*.pdb
+
+# Archivos de configuración de VS Code
+.vscode/

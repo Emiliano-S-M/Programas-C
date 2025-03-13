@@ -65,4 +65,4 @@ El usuario deberá poder seleccionar una de estas figuras y el programa pedirá 
 3. El programa debe calcular y mostrar el área correspondiente.
 4. El usuario debe poder realizar múltiples cálculos sin necesidad de reiniciar el programa.
 
-{Código}(main.c)
+[Código](./main.c)
